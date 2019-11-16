@@ -1,0 +1,5 @@
+C:\Users\Cixon\source\repos\clicklock\manipulator3\bin\Debug\manipulator3.dll
+C:\Users\Cixon\source\repos\clicklock\manipulator3\bin\Debug\manipulator3.pdb
+C:\Users\Cixon\source\repos\clicklock\manipulator3\obj\Debug\manipulator3.csprojAssemblyReference.cache
+C:\Users\Cixon\source\repos\clicklock\manipulator3\obj\Debug\manipulator3.dll
+C:\Users\Cixon\source\repos\clicklock\manipulator3\obj\Debug\manipulator3.pdb
